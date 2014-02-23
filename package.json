@@ -1,0 +1,8 @@
+{
+    "name": "fractalExplorer",
+    "version": "0.0.1",
+    "homepage": "https://github.com/garethm/fractalExplorer",
+    "author": "Gareth Marshall <garethm@acm.org>",
+    "contributors": "",
+    "repository": {"type": "git", "url": "git://github.com/garethm/fractalExplorer.git"}
+}
