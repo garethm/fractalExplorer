@@ -8,6 +8,12 @@ module.exports = function(grunt) {
                 jshintrc: true
             },
             all: ['Gruntfile.js', 'app.js']
+        },
+        watch: {
+            jshint: {
+                files: ['Gruntfile.js', 'app.js'],
+                tasks: "jshint"
+            }
         }
         });
 
